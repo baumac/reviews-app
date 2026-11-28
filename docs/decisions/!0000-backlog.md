@@ -10,6 +10,7 @@ Each sub-bullet point contains notes about the incomplete decision.
 
 ## For Me
 - redesign or rename table concept
+  - Decision 00013 proposes a weekly digest with memories.
 - next prod deploy
   - set the PocketBase Application name and mail sender name to "Olive"
   - find way to apply ip whitelisting in prod
